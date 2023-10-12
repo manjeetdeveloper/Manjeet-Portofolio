@@ -150,7 +150,9 @@ section.about .social a img {
   padding: 0.5rem;
 }
 
-/* Servicess  */
+
+
+/* Servicess  for class */
 
 .section-heading {
   color: var(--secondry);
@@ -229,7 +231,7 @@ section.services .card-wrapper .card:hover {
   background: var(--dark);
 }
 
-/* this code is represent to hr and p after hover color is pure and dark  */
+/* this code is represent to h and p after hover color is pure and dark  */
 
 section.services .card-wrapper .card:hover h2,
 section.services .card-wrapper .card:hover p {
@@ -245,6 +247,7 @@ section.freelancer {
     url(../images/camera.png);
   color: var(--pure);
   clip-path: polygon(0 0, 100% 0, 100% 100%, 65% 80%, 0 100%);
+
   /* polygonal ka botton fixed below code  */
   padding-bottom: 14rem;
   /* margin-bottom: -1rem;
@@ -323,6 +326,8 @@ section.reviews .slider-dots button{
   cursor: pointer;
 
 }
+
+
 
 /* section.review ka jo dots ke uper list items hai use jiska class slick-active hai uske ander ke button ko   */
 section.reviews .dots li.slick-active button{
@@ -432,6 +437,9 @@ section.blog .card-wrapper .card .card-content p{
 section.blog .card-wrapper .card .card-content a.read-more{
   font-size:0.8rem;
 }
+
+
+
 
 
 
